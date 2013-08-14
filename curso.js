@@ -15,7 +15,8 @@ var carroJSON = {
 carroJSON.duenos.push('Heather Krolac', 'Mamesh Soni');
 carroJSON['RTV'] = true;
 
-console.log(carroJSON); // fijese en la consola, tambien puede hacer alert y darle Run, pruebe con la function JSON.stringify(); https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify
+console.log(carroJSON); 
+// fijese en la consola, tambien puede hacer alert y darle Run, pruebe con la function JSON.stringify(); https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify
 
 /*
     Ejercicios
